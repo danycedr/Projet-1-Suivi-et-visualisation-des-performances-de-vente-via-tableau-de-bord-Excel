@@ -50,11 +50,8 @@ Un tableau de bord Excel complet, interactif et automatisé, permettant de :
 - **Superstore Dataset**  
   Jeu de données public utilisé pour les démonstrations de BI. Il contient des informations sur les ventes, les clients, les produits et les régions.
 
-## 📷 Aperçu visuel *(à insérer)*
+## 📷 Aperçu visuel **
 
-Une capture d’écran du tableau de bord final montrant l’analyse par région et les graphiques dynamiques.
+![image](https://github.com/user-attachments/assets/62daee45-3a65-4b52-91bc-a3cb053a4ac7)
 
----
-
-## 📂 Structure du projet
 
